@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Ovo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./ovo.ttf) format('truetype');
+}
